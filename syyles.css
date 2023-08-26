@@ -1,0 +1,68 @@
+card:hover{
+    color: blue;
+
+}
+
+
+
+.class-2{
+    display: none !important; 
+    
+}
+
+
+.class-1{
+    background-color: rgb(134, 124, 124) !important ;
+    border-radius: 25px !important;
+
+}
+
+.class-1:hover{
+    background: rgb(77, 153, 148) !important;
+    .class-2{
+        display: block !important;
+    }
+}
+
+#side{
+    display: grid !important;
+    grid-template-columns: 60fr 50fr !important;
+  }
+.imageborishal{
+  padding-right: 15px;
+  padding-left: 5px;
+}
+  .imageborishal{
+    border-radius: 5%;
+  }
+  #footer{
+    display: grid;
+    grid-template-columns: 60fr 20fr;
+  }
+  /* .footerclass{
+    padding-left:;
+  } */
+  /* #slide2{
+    display: grid;
+    grid-template-columns:  60fr 40fr 50fr;
+  } */ 
+  /* .lasthead{
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .playstore{
+    float: right;
+  } */
+
+  /* .footer{
+    display: flex;
+  }
+  .playstor{
+    float: right;
+  } */
+  /* .flexfooter{
+    display: 
+  } */
+
